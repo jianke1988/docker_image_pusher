@@ -7,4 +7,5 @@ nginx
 #ghcr.io/labring/fastgpt:v4.8.22
 #rancher/rancher:v2.8.5
 #rancher/rancher:v2.9.3
-sonarqube:community
+#sonarqube:community
+tomcat:8
