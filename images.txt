@@ -9,4 +9,5 @@ nginx
 #rancher/rancher:v2.9.3
 #sonarqube:community
 #tomcat:8
-centos:7
+#centos:7
+nacos/nacos-server:v2.3.0
