@@ -12,6 +12,7 @@ nginx
 #centos:7
 #nacos/nacos-server:v2.3.0
 #alpine:latest
-amd64/buildpack-deps:buster-curl
-eclipse-temurin:17.0.15_6-jre
+#amd64/buildpack-deps:buster-curl
+#eclipse-temurin:17.0.15_6-jre
+centos:7.9.2009
 
