@@ -16,4 +16,5 @@ nginx
 #eclipse-temurin:17.0.15_6-jre
 #centos:7.9.2009
 rancher/rancher:v2.8.11
+rancher/rancher:v2.9.5
 
