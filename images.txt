@@ -1,1 +1,2 @@
 keking/kkfileview:4.1.0
+nginx:1.29.1
