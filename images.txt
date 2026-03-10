@@ -1,1 +1,2 @@
 agentscope/copaw:latest
+openclaw/openclaw:latest
