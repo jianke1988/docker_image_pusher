@@ -1,1 +1,1 @@
- agentscope/copaw:latest
+agentscope/copaw:latest
