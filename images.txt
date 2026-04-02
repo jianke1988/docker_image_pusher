@@ -1,1 +1,2 @@
- agentscope/copaw:latest
+agentscope/copaw:latest
+apache/rocketmq:5.3.2
