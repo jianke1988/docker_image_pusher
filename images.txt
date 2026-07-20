@@ -1,4 +1,1 @@
-agentscope/copaw:latest
-apache/rocketmq:5.3.2
-apacherocketmq/rocketmq-dashboard:latest
-
+hashicorp/vault:latest
